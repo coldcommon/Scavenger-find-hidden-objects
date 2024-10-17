@@ -62,3 +62,6 @@ TagManager:
   - name: New Layer 7
     uniqueID: 420678905
     locked: 0
+  - name: New Layer 8
+    uniqueID: 2830299033
+    locked: 0
